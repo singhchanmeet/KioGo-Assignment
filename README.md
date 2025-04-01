@@ -2,6 +2,8 @@
 
 A secure, single-page login system with domain-based email restrictions and OTP verification.
 
+Checkout the [live link](https://domain-login-kiogo.vercel.app) (Currently gmail.com is the only allowed domain)
+
 ## Features
 
 - **Domain-Based Email Restriction**: Only users with emails from approved domains can register and log in
